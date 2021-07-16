@@ -1,0 +1,13 @@
+Line no 6
+
+ScopeTable # 2
+ 7 --> < a , ID , 1>
+ 8 --> < b , ID , 3>
+ 9 --> < c , ID , { -1 -1 -1 } > 
+
+
+
+ScopeTable # 1
+ 26 --> < main , ID>
+
+
